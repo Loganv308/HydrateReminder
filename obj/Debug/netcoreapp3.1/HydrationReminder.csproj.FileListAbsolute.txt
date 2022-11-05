@@ -1,0 +1,14 @@
+C:\Users\burni\source\repos\HydrationReminder\bin\Debug\netcoreapp3.1\HydrationReminder.exe
+C:\Users\burni\source\repos\HydrationReminder\bin\Debug\netcoreapp3.1\HydrationReminder.deps.json
+C:\Users\burni\source\repos\HydrationReminder\bin\Debug\netcoreapp3.1\HydrationReminder.runtimeconfig.json
+C:\Users\burni\source\repos\HydrationReminder\bin\Debug\netcoreapp3.1\HydrationReminder.runtimeconfig.dev.json
+C:\Users\burni\source\repos\HydrationReminder\bin\Debug\netcoreapp3.1\HydrationReminder.dll
+C:\Users\burni\source\repos\HydrationReminder\bin\Debug\netcoreapp3.1\HydrationReminder.pdb
+C:\Users\burni\source\repos\HydrationReminder\obj\Debug\netcoreapp3.1\HydrationReminder.csproj.AssemblyReference.cache
+C:\Users\burni\source\repos\HydrationReminder\obj\Debug\netcoreapp3.1\HydrationReminder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burni\source\repos\HydrationReminder\obj\Debug\netcoreapp3.1\HydrationReminder.AssemblyInfoInputs.cache
+C:\Users\burni\source\repos\HydrationReminder\obj\Debug\netcoreapp3.1\HydrationReminder.AssemblyInfo.cs
+C:\Users\burni\source\repos\HydrationReminder\obj\Debug\netcoreapp3.1\HydrationReminder.csproj.CoreCompileInputs.cache
+C:\Users\burni\source\repos\HydrationReminder\obj\Debug\netcoreapp3.1\HydrationReminder.dll
+C:\Users\burni\source\repos\HydrationReminder\obj\Debug\netcoreapp3.1\HydrationReminder.pdb
+C:\Users\burni\source\repos\HydrationReminder\obj\Debug\netcoreapp3.1\HydrationReminder.genruntimeconfig.cache
