@@ -12,3 +12,16 @@ C:\Users\burni\source\repos\HydrationReminder\obj\Debug\netcoreapp3.1\HydrationR
 C:\Users\burni\source\repos\HydrationReminder\obj\Debug\netcoreapp3.1\HydrationReminder.dll
 C:\Users\burni\source\repos\HydrationReminder\obj\Debug\netcoreapp3.1\HydrationReminder.pdb
 C:\Users\burni\source\repos\HydrationReminder\obj\Debug\netcoreapp3.1\HydrationReminder.genruntimeconfig.cache
+C:\Users\burni\source\repos\HydrationReminder\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\burni\source\repos\HydrationReminder\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\burni\source\repos\HydrationReminder\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Users\burni\source\repos\HydrationReminder\bin\Debug\netcoreapp3.1\Topshelf.dll
+C:\Users\burni\source\repos\HydrationReminder\bin\Debug\netcoreapp3.1\TopShelf.ServiceInstaller.dll
+C:\Users\burni\source\repos\HydrationReminder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\burni\source\repos\HydrationReminder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\burni\source\repos\HydrationReminder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\burni\source\repos\HydrationReminder\obj\Debug\netcoreapp3.1\HydrationReminder.csproj.CopyComplete
+C:\Users\burni\source\repos\HydrationReminder\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\burni\source\repos\HydrationReminder\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\burni\source\repos\HydrationReminder\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\burni\source\repos\HydrationReminder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
