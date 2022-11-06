@@ -8,6 +8,7 @@ using Topshelf;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using HydrationReminder;
 
 
 namespace HydrationReminder
@@ -30,9 +31,11 @@ namespace HydrationReminder
                 x.SetServiceName("HydrationReminder");
                 x.SetDisplayName("Hydration Reminder");
                 x.SetDescription("This app will notify you every hour to take a swig of water, therefore maintaining ideal hydration.");
+                
             });
 
             int exitCodeValue = (int)Convert.ChangeType(exitCode, exitCode.GetTypeCode()); // Casting to an Int and converting the exit code
+            
             Environment.ExitCode = exitCodeValue; // Passing and assigning as an Int
         }
     }
